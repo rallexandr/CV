@@ -1,2 +1,2 @@
 ## CV  
-    Link to my PDF file is in CV.txt
+    Link to PDF file https://drive.google.com/file/d/1ivmr5B6RTrP2GKPRiutFgMTs4OeJpxpS/view?usp=sharing
