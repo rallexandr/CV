@@ -1,2 +1,2 @@
 ## CV  
-    Link to my CV PDF file is in 
+    Link to my PDF file is in CV.txt
